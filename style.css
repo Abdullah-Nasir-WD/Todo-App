@@ -1,0 +1,30 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+h1{
+    background-color: cadetblue;
+    color: #000000;
+    text-align: center;
+}
+
+
+
+.submit-btn{
+    border-style: dotted;
+    background-color: cadetblue;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.togather{
+    background-color: cadetblue;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.task{
+    color: #201f1f;
+}
